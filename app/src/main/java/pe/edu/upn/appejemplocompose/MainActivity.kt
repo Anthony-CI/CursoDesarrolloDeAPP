@@ -48,7 +48,8 @@ Non-Bundled Plugins:
   Dart (242.24931)
   io.flutter (83.0.3)
 
-
+Por el momento levanta en una version actual sin nesecidad
+de tener la del laboratorio
  */
 
 
